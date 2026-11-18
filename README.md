@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
-Me chamo Maria Eduarda de Sousa Nascimento e sou de São Paulo, SP. Fiz o ensino médio integrado ao curso técnico em Análise e Desenvolvimento de Sistemas na ETEC Parque Belém e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Também estou concluindo um bootcamp de IA Generativa, Dados e Cibersegurança.
+Me chamo Maria Eduarda de Sousa e sou de São Paulo, SP. Fiz o ensino médio integrado ao curso técnico em Análise e Desenvolvimento de Sistemas na ETEC e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Também estou concluindo um bootcamp de IA Generativa, Dados e Cibersegurança.
 
 
 <p align="left">
