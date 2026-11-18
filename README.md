@@ -1,10 +1,9 @@
 # 👩🏻‍💻 Maria Eduarda
 
-**`Estudante de ADS | TI, Dados e Inteligência Artificial`**
+**`Estudante de ADS`**
 
 Me chamo Maria Eduarda de Sousa Nascimento e sou de São Paulo, SP. Fiz o ensino médio integrado ao curso técnico em Análise e Desenvolvimento de Sistemas na ETEC Parque Belém e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Também estou concluindo um bootcamp de IA Generativa, Dados e Cibersegurança.
 
-Sou apaixonada por tecnologia e estou em busca de uma oportunidade de estágio nas áreas de TI, Análise de Dados e Inteligência Artificial.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/maria-eduarda-de-sousa-nascimento-3a2975403/">
